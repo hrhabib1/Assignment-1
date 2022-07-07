@@ -100,3 +100,18 @@ h2{
    background-color: rgb(239, 82, 82);
    padding: 1%;
 }
+.Footer-part{
+    background-color: rgb(13, 13, 13);
+    text-align: center;
+    padding: 0.5%;
+}
+h3{
+    color: rgb(157, 67, 34);
+}
+footer p{
+    color: rgb(49, 49, 197);
+}
+#my-name{
+    text-align: right;
+    color: aliceblue;
+}
