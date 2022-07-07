@@ -71,4 +71,14 @@ input{
     margin: 1%;
     
 }
-
+.fourth-part{
+    display: flex;
+    margin: 5%;
+}
+.fourth-part img{
+               width: 80%;
+}
+.contribut{
+    text-align: left;
+    padding:3%;
+}
