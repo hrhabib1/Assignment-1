@@ -54,3 +54,21 @@ input{
       margin-bottom:30px;
       text-align: center;
 }
+.third-section{
+    text-align: center;
+    color: black;
+    padding:2% 25%;
+}
+.icon-part{
+    display: flex;
+    margin:0px 10px 10px 10px;
+    padding: 5%;
+
+}
+.three-part{
+    background-color: aliceblue;
+    padding:25px 15px;
+    margin: 1%;
+    
+}
+
