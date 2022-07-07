@@ -48,7 +48,7 @@ h2{
     border:  3px solid brown;
     border-radius: 5px;
 }
-input{
+#amount{
       border: none;
       box-shadow: 0px 1px 0px black;
       margin-bottom:30px;
@@ -81,4 +81,22 @@ input{
 .contribut{
     text-align: left;
     padding:3%;
+}
+.fifth-section{
+    text-align: center;
+    color: black;
+    padding:2% 25%;
+}
+.subscribe{
+     background-color: rgb(176, 173, 166);
+     padding: 3%;
+}
+#email{
+    background-color: bisque;
+    padding: 1%;
+}
+#sub{
+    color: aliceblue;
+   background-color: rgb(239, 82, 82);
+   padding: 1%;
 }
